@@ -1,0 +1,62 @@
+html {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 125%;
+  hyphens: auto;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+body > header, body > main, body > footer {
+  margin: 0 auto;
+  max-width: 30rem;
+}
+
+body > header {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  white-space: pre;
+  border: 10px double black;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+body > footer {
+  font-size: 75%;
+  margin-bottom: 2rem;
+  margin-top: 5rem;
+  text-align: right;
+}
+
+section {
+  margin-top: 3rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header h1 {
+  font-size: 250%;
+}
+
+.wordmark {
+  font-size: 250%;
+  font-weight: bold;
+}
+
+.enormous {
+  text-transform: uppercase;
+  font-size: 250%;
+  letter-spacing: 0.4rem;
+}
+
+.small {
+  font-size: 80%;
+}
