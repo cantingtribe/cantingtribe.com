@@ -91,3 +91,11 @@ header h1 {
   margin-top: 0.54rem;
   font-size: 150%;
 }
+
+.form:before {
+  content: '☞ ';
+}
+
+.form:after {
+  content: ' ☜';
+}
