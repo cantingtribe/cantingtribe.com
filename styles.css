@@ -20,14 +20,14 @@ body > header {
   border: 10px double black;
   margin-bottom: 1.5rem;
   margin-top: 2.5rem;
-  text-align: justify;
+  text-align: center;
 }
 
 header > p {
   margin: 1rem;
 }
 
-header > p:first-child {
+.plate {
   text-align: center;
   white-space: pre;
 }
@@ -46,6 +46,7 @@ header > p:first-child {
 
 .use {
   margin-left: 2rem;
+  text-align: left;
   text-indent: -1rem;
 }
 
