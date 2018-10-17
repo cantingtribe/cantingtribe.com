@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="140mm"
-   height="140mm"
-   viewBox="0 0 140 140"
+   width="170mm"
+   height="170mm"
+   viewBox="0 0 170 170"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -48,8 +48,8 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1061"
+     inkscape:window-width="1598"
+     inkscape:window-height="881"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -79,10 +79,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-39.630722,-70.143841)">
+     transform="translate(-39.630722,-40.143841)">
     <g
        id="g4554"
-       transform="translate(16.202805,-6.043659)">
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,163.45532,294.57753)">
       <ellipse
          ry="48.797192"
          rx="48.797195"
