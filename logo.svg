@@ -82,7 +82,7 @@
      transform="translate(-39.630722,-40.143841)">
     <g
        id="g4819"
-       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,163.45532,294.57753)">
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,163.45532,293.05959)">
       <g
          id="g4831"
          transform="rotate(135,91.281225,146.1875)">
@@ -103,12 +103,12 @@
       </g>
     </g>
     <rect
-       y="-161.27844"
-       x="88.496109"
-       height="73.295456"
-       width="73.295456"
+       y="-163.56892"
+       x="86.205635"
+       height="77.876419"
+       width="77.876419"
        id="rect875"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.70454407;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.12357807;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="rotate(90)" />
   </g>
 </svg>
